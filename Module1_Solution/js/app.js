@@ -40,7 +40,7 @@ function msgResponseSystem( $scope, elem){
       "color" : "green",
     }
   } else{
-    $scope.lunchItemselem = "Enter Items to Check !";
+    $scope.lunchItemselem = "Please enter data first!";
     $scope.myObj = {
         "border-color" : "red",
     };
